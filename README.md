@@ -1,6 +1,6 @@
 # Trip Expenses Calculator
 
-This application calculates expense sharing for a group of people. There is no limit to the number of people in the application, but they must all have unique names.
+This application calculates expense sharing for a group of people. There is no limit to the number of people in the application, but they must all have unique names. I have included a pre-built jar file in this main directory, but if you wish to build the application from scratch, the steps are below.
 
 ### How to build
 To build the application, run
