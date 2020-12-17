@@ -15,10 +15,12 @@ on Windows.
 ### How to run
 Once the application has been packaged into a jar file (if built in the above steps, it is located in ```build/libs```), invoke it as follows:
 ```
-java -jar tripcalculator-0.1.jar [file-to-process]
+java -jar ./tripcalculator-0.1.jar [file-to-process]
 ```
 
 There is a sample file included in ```src/test/resources/sample-expenses.txt```.
+
+To run the included jar with the included sample file, run ```java -jar ./tripcalculator-0.1.jar ./src/test/resources/sample-expenses.txt``` in the main directory of this project.
 
 ### Expense file format
 The application expects a file formatted as follows:
